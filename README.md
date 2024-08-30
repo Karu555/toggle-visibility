@@ -1,4 +1,4 @@
-# Theme Toggle Application
+# Toggle Message Application
 
 This is a simple React application that demonstrates the use of the useReducer hook for managing state. The application allows users to  toggles the visibility of a message. 
 
