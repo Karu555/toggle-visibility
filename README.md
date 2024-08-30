@@ -12,9 +12,6 @@ Toggle: toggles the visibility of a message
 
 https://github.com/Karu555/toggle-visibility
 
-### Navigate to the Project Directory:
-
-cd theme-toggle
 
 ### Install Dependencies:
 
